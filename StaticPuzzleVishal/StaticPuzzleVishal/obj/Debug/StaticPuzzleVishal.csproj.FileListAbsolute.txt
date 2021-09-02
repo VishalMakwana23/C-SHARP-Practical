@@ -1,0 +1,9 @@
+G:\mca\Practical\C#\StaticPuzzleVishal\StaticPuzzleVishal\bin\Debug\StaticPuzzleVishal.exe.config
+G:\mca\Practical\C#\StaticPuzzleVishal\StaticPuzzleVishal\bin\Debug\StaticPuzzleVishal.exe
+G:\mca\Practical\C#\StaticPuzzleVishal\StaticPuzzleVishal\bin\Debug\StaticPuzzleVishal.pdb
+G:\mca\Practical\C#\StaticPuzzleVishal\StaticPuzzleVishal\obj\Debug\StaticPuzzleVishal.csprojResolveAssemblyReference.cache
+G:\mca\Practical\C#\StaticPuzzleVishal\StaticPuzzleVishal\obj\Debug\StaticPuzzleVishal.Form1.resources
+G:\mca\Practical\C#\StaticPuzzleVishal\StaticPuzzleVishal\obj\Debug\StaticPuzzleVishal.Properties.Resources.resources
+G:\mca\Practical\C#\StaticPuzzleVishal\StaticPuzzleVishal\obj\Debug\StaticPuzzleVishal.csproj.GenerateResource.Cache
+G:\mca\Practical\C#\StaticPuzzleVishal\StaticPuzzleVishal\obj\Debug\StaticPuzzleVishal.exe
+G:\mca\Practical\C#\StaticPuzzleVishal\StaticPuzzleVishal\obj\Debug\StaticPuzzleVishal.pdb

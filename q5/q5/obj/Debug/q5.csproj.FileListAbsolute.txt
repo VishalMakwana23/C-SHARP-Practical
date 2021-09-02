@@ -1,0 +1,12 @@
+G:\MCA\203\p3\q5\q5\bin\Debug\q5.exe.config
+G:\MCA\203\p3\q5\q5\obj\Debug\q5.csprojResolveAssemblyReference.cache
+G:\MCA\203\p3\q5\q5\obj\Debug\q5.Form1.resources
+G:\MCA\203\p3\q5\q5\obj\Debug\q5.Properties.Resources.resources
+G:\MCA\203\p3\q5\q5\obj\Debug\q5.csproj.GenerateResource.Cache
+G:\MCA\203\p3\q5\q5\bin\Debug\q5.exe
+G:\MCA\203\p3\q5\q5\bin\Debug\q5.pdb
+G:\MCA\203\p3\q5\q5\obj\Debug\q5.exe
+G:\MCA\203\p3\q5\q5\obj\Debug\q5.pdb
+G:\mca\Practical\C#\p3\q5\q5\bin\Debug\q5.exe.config
+G:\mca\Practical\C#\p3\q5\q5\obj\Debug\q5.exe
+G:\mca\Practical\C#\p3\q5\q5\obj\Debug\q5.pdb

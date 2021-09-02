@@ -1,0 +1,15 @@
+C:\Users\PREMIUM\source\repos\dynamictictactoe\dynamictictactoe\bin\Debug\netcoreapp3.1\dynamictictactoe.exe
+C:\Users\PREMIUM\source\repos\dynamictictactoe\dynamictictactoe\bin\Debug\netcoreapp3.1\dynamictictactoe.deps.json
+C:\Users\PREMIUM\source\repos\dynamictictactoe\dynamictictactoe\bin\Debug\netcoreapp3.1\dynamictictactoe.runtimeconfig.json
+C:\Users\PREMIUM\source\repos\dynamictictactoe\dynamictictactoe\bin\Debug\netcoreapp3.1\dynamictictactoe.runtimeconfig.dev.json
+C:\Users\PREMIUM\source\repos\dynamictictactoe\dynamictictactoe\bin\Debug\netcoreapp3.1\dynamictictactoe.dll
+C:\Users\PREMIUM\source\repos\dynamictictactoe\dynamictictactoe\bin\Debug\netcoreapp3.1\dynamictictactoe.pdb
+C:\Users\PREMIUM\source\repos\dynamictictactoe\dynamictictactoe\obj\Debug\netcoreapp3.1\dynamictictactoe.csprojAssemblyReference.cache
+C:\Users\PREMIUM\source\repos\dynamictictactoe\dynamictictactoe\obj\Debug\netcoreapp3.1\dynamictictactoe.Form1.resources
+C:\Users\PREMIUM\source\repos\dynamictictactoe\dynamictictactoe\obj\Debug\netcoreapp3.1\dynamictictactoe.csproj.GenerateResource.cache
+C:\Users\PREMIUM\source\repos\dynamictictactoe\dynamictictactoe\obj\Debug\netcoreapp3.1\dynamictictactoe.AssemblyInfoInputs.cache
+C:\Users\PREMIUM\source\repos\dynamictictactoe\dynamictictactoe\obj\Debug\netcoreapp3.1\dynamictictactoe.AssemblyInfo.cs
+C:\Users\PREMIUM\source\repos\dynamictictactoe\dynamictictactoe\obj\Debug\netcoreapp3.1\dynamictictactoe.csproj.CoreCompileInputs.cache
+C:\Users\PREMIUM\source\repos\dynamictictactoe\dynamictictactoe\obj\Debug\netcoreapp3.1\dynamictictactoe.dll
+C:\Users\PREMIUM\source\repos\dynamictictactoe\dynamictictactoe\obj\Debug\netcoreapp3.1\dynamictictactoe.pdb
+C:\Users\PREMIUM\source\repos\dynamictictactoe\dynamictictactoe\obj\Debug\netcoreapp3.1\dynamictictactoe.genruntimeconfig.cache
