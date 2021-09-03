@@ -1,0 +1,9 @@
+G:\mca\Practical\C#\NightPuzzleCheck\NightPuzzleCheck\bin\Debug\NightPuzzleCheck.exe.config
+G:\mca\Practical\C#\NightPuzzleCheck\NightPuzzleCheck\bin\Debug\NightPuzzleCheck.exe
+G:\mca\Practical\C#\NightPuzzleCheck\NightPuzzleCheck\bin\Debug\NightPuzzleCheck.pdb
+G:\mca\Practical\C#\NightPuzzleCheck\NightPuzzleCheck\obj\Debug\NightPuzzleCheck.csprojResolveAssemblyReference.cache
+G:\mca\Practical\C#\NightPuzzleCheck\NightPuzzleCheck\obj\Debug\NightPuzzleCheck.Form1.resources
+G:\mca\Practical\C#\NightPuzzleCheck\NightPuzzleCheck\obj\Debug\NightPuzzleCheck.Properties.Resources.resources
+G:\mca\Practical\C#\NightPuzzleCheck\NightPuzzleCheck\obj\Debug\NightPuzzleCheck.csproj.GenerateResource.Cache
+G:\mca\Practical\C#\NightPuzzleCheck\NightPuzzleCheck\obj\Debug\NightPuzzleCheck.exe
+G:\mca\Practical\C#\NightPuzzleCheck\NightPuzzleCheck\obj\Debug\NightPuzzleCheck.pdb
